@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @MartinGross
-- 👀 I’m interested in software development, DevOps culture, agility and lean thinking
-- 🌱 I’m learning everyday and write about it at https://blog.fluxum.net/
-- 💞️ I’m looking to collaborate on a better future
+👋 Hi, I’m @MartinGross
+
+👀 I’m interested in software development, DevOps culture, agility and lean thinking
+
+🌱 I’m learning everyday and write about it at https://blog.fluxum.net/
+
+💞️ I’m looking to collaborate on a better future
 
 📫 How to reach me
 - Twitter https://twitter.com/MartinGross
